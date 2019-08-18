@@ -1,0 +1,3 @@
+[submodule "autonomous-drone"]
+	path = autonomous-drone
+	url = git@github.com:szebedy/autonomous-drone.git
